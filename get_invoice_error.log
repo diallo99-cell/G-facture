@@ -1,0 +1,9 @@
+{
+  "id": "FAC-2026-455",
+  "error": {
+    "code": "PGRST116",
+    "details": "The result contains 0 rows",
+    "hint": null,
+    "message": "Cannot coerce the result to a single JSON object"
+  }
+}
